@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+---
+![Twitter Badge](https://img.shields.io/twitter/follow/leogreal?style=social) [![Linkedin Badge](https://img.shields.io/badge/-leogreal-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leogreal/)](https://www.linkedin.com/in/leogreal/) [![Medium Badge](https://img.shields.io/badge/-@leogreal-03a57a?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@leogreal/)](https://medium.com/@leogreal/) [![Gmail Badge](https://img.shields.io/badge/-leogreal@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:leogreal@gmail.com)](mailto:leogreal@gmail.com)
+
 <!--
 **leogreal/leogreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=leogreal.leogreal)
