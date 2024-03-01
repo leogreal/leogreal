@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api?username=leogreal&show_icons=true" />
 <img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leogreal&hide=html&layout=compact&theme=buefy" /> 
-
----
-![Twitter Badge](https://img.shields.io/twitter/follow/leogreal?style=social)
 
 [![Linkedin Badge](https://img.shields.io/badge/-leogreal-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leogreal/)](https://www.linkedin.com/in/leogreal/)
 
@@ -27,5 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-![visitors](https://visitor-badge.glitch.me/badge?page_id=leogreal.leogreal)
